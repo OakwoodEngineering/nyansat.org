@@ -234,7 +234,7 @@ whitelist:
 author:
   name   : "NyanSat"
   avatar : "/assets/images/nyan-smallpatch.png"
-  bio    : "A technology demonstration and educational outreach satellite built by students at Oakwood School."
+  bio    : "A technology demonstration and educational outreach satellite built by high school students at Oakwood."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
