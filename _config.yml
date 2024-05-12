@@ -20,11 +20,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NyanSat"
+title: Oakwood Engineering NyanSat
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Oakwood Engineering"
-description: >- # this means to ignore newlines until "baseurl:"
+email                    : space-eng@oakwoodway.org
+description: >- # this means to ignore newlines until "next entry"
   NyanSat is a small satellite (CubeSat) developed by students at Oakwood
   High School in Morgan Hill, California. The satellite was chosen by
   NASA's CubeSat Launch Initiative for launch into orbit.
