@@ -232,7 +232,7 @@ whitelist:
 
 author:
   name   : "NyanSat"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/nyan-smallpatch.png"
   bio    : "A 2U Technology Demonstration and Educational Outreach Satellite."
   links:
 #    - label: "Website"
