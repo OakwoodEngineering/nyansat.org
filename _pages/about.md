@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+We're a team of students from [Oakwood High School](https://oakwoodway.org/), an independent school in [Morgan Hill, California](https://en.wikipedia.org/wiki/Morgan_Hill,_California).  We are designing and building a small satellite that has been [selected](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-selects-new-round-of-candidates-for-cubesat-missions-to-station/) for orbital launch by [NASA’s CubeSat Launch Initiative](https://www.nasa.gov/kennedy/launch-services-program/cubesat-launch-initiative/).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+To achieve our objectives of technology demonstration and educational outreach, we will construct NyanSat, a 2U CubeSat (10 x 10 x 22 cm). Our satellite will inspire students and provide learning opportunities while contributing to the development of new and innovative space technologies.
