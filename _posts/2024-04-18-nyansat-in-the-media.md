@@ -5,9 +5,13 @@ categories:
   - Blog
 tags:
   - CSLI
+  - media
+  - TV
 ---
 
 It's been an exciting few weeks after our CSLI selection.  We're extremely grateful to have been chosen, and have been putting a lot of work in on our satellite's plans.
+
+![alt](/assets/images/nyanteam.jpg)
 
 We've also been busy because the selection has grabbed a fair bit of media attention.  Some selected places we've been featured:
 
