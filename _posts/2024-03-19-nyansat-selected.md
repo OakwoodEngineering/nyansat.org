@@ -5,6 +5,8 @@ categories:
   - Blog
 tags:
   - CSLI
+header:
+    teaser: /assets/images/csli.png
 ---
 
 Oakwood School’s student-built small satellite, NyanSat, has just been selected to launch to the International Space Station as part of NASA’s CubeSat Launch Initiative. Notably, Oakwood was the only K-12 school chosen, alongside eight universities and one NASA space flight center. 

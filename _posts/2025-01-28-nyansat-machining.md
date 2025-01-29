@@ -8,6 +8,8 @@ tags:
   - CAD
   - Machining
 author: Dillon Hall
+header:
+    teaser: /assets/images/ny-m-thumb.jpg
 ---
 As NyanSat designs to push the boundaries of what is possible in space, the Oakwood Engineering lab has recently been upgraded with a 3-axis gantry milling machine. This addition greatly increases the capabilities for in-house fabrication that will be used to machine the structure of the NyanSat CubeSat. The milling machine will help members of the NyanSat team to build skills, refine processes, and contribute to the field of small satellites.
 

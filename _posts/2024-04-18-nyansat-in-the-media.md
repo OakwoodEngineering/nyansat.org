@@ -7,6 +7,8 @@ tags:
   - CSLI
   - media
   - TV
+header:
+    teaser: /assets/images/kgo7news.jpg
 ---
 
 It's been an exciting few weeks after our CSLI selection.  We're extremely grateful to have been chosen, and have been putting a lot of work in on our satellite's plans.
