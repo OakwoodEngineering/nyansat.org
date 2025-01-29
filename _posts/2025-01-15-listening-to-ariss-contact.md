@@ -7,7 +7,8 @@ tags:
   - ARISS
   - Amateur radio
 author: Ryan Beaulieu
-teaser: /assets/images/ariss-rx-contact-yagi-small.jpg
+header:
+    teaser: /assets/images/ariss-rx-contact-yagi-small.jpg
 ---
 On October 18, 2024, members of the NyanSat team listened in on a radio communication between NASA and a school in Oregon as part of NASA’s [ARISS (Amateur Radio on the ISS)](https://www.ariss.org/) program. 
 
