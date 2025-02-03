@@ -189,11 +189,6 @@ sass:
 permalink: /:categories/:title/
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
-# Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
@@ -236,9 +231,6 @@ author:
   avatar : "/assets/images/nyan-smallpatch.png"
   bio    : "A technology demonstration and educational outreach satellite built by high school students at Oakwood."
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -248,6 +240,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/OakwoodEngineering"
+    - label: "Oakwood"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://oakwoodway.org"
 
 footer:
   links:
