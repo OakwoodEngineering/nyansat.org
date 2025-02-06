@@ -1,12 +1,12 @@
 ---
 title: Oakwood Students to Present at 2025 CubeSat Developers Workshop
-last_modified_at: 2025-02-03T08:05:05-07:00
+last_modified_at: 2025-02-05T08:05:05-07:00
 categories:
   - Blog
 tags:
-  - CSLI
   - media
   - Oakwood
+  - conference
 header:
     teaser: /assets/images/cdw_logo.png
 gallery:
@@ -20,7 +20,7 @@ gallery:
     title: "Talks feature information about CubeSat technology and mission development."
 ---
 
-We're thrilled to announce our participation in the 2025 CubeSat Developers Workshop, taking place from April 22–24 at Cal Poly, San Luis Obispo. This prestigious event brings together industry experts, researchers, and students to advance CubeSat technology and collaboration. Oakwood, as a K-12 institution, is uniquely positioned to contribute innovative ideas and learn from leaders in the field.
+We're thrilled to announce our participation in the [2025 CubeSat Developers Workshop](https://cubesatdw.org), taking place from April 22–24 at [Cal Poly, San Luis Obispo](https://www.calpoly.edu/). This prestigious event brings together industry experts, researchers, and students to advance CubeSat technology and collaboration. Oakwood, as a K-12 institution, is uniquely positioned to contribute innovative ideas and learn from leaders in the field.
 
 {% include gallery id="gallery" caption="The CubeSat Developers Workshop is held in the Cal Poly Performing Arts Center." %}
 
