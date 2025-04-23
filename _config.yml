@@ -243,6 +243,9 @@ author:
     - label: "Oakwood"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://oakwoodway.org"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:space-eng@oakwoodway.org"
 
 footer:
   links:
